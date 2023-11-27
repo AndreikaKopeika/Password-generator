@@ -11,3 +11,4 @@ for i in range(password_len):
     password += random.choice(symbols)
 
 print(f'Password: {password}')
+input('...')
